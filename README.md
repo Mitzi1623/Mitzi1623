@@ -36,11 +36,11 @@ Welcome to my GitHub repository! I'm Mitzi, a humanities enthusiast who is on an
 - Any questions related to web development, data analysis, or cybersecurity.
 
 ## 📫 How to reach me: ...
-- GitHub: [Your GitHub Profile](https://github.com/Mitzi1623)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mitzi-yazm%C3%ADn-cancino-huerta-6aa110262/)
+- GitHub: [GitHub Profile](https://github.com/Mitzi1623)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mitzi-yazm%C3%ADn-cancino-huerta-6aa110262/)
 
 ## 😄 Pronouns: ...
 - She/her
-## ⚡ Fun fact: ...
-- I can recite Shakespearean sonnets from memory.
-- I once decoded a Caesar cipher for fun.
+## ⚡ Fun facts: ...
+- I love Pochacco.
+- I once read the bible for fun.
